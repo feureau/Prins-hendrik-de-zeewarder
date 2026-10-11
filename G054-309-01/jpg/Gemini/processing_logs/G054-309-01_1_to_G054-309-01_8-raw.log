@@ -1,0 +1,9 @@
+==================== Processing Log ====================
+input_filepaths: ['G054-309-01_1.jpg', 'G054-309-01_2.jpg', 'G054-309-01_3.jpg', 'G054-309-01_4.jpg', 'G054-309-01_5.jpg', 'G054-309-01_6.jpg', 'G054-309-01_7.jpg', 'G054-309-01_8.jpg']
+start_time: 2026-02-16 05:32:42
+engine: google
+model_name: models/gemini-3-flash-preview
+prompt_sent: Transcribe. Give me only the transcription in the original language formatted and cleaned up for markdown. Transcribe the files sequentially as provided, Don't add anything else, No commentary.
+status: Success
+end_time: 2026-02-16 05:33:40
+==================================================
